@@ -12,3 +12,5 @@ function reverseList(arr) {
   }
   return res;
 }
+
+// or
